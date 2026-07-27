@@ -5,7 +5,7 @@ This is a modern and responsive Landing Page developed as part of my Web Develop
 # Website Features
 
 - Responsive design for desktop, tablet, and mobile devices
-- Modern and attractive landing page layout
+- Modern and attractive landing page layout 
 - Professional navigation bar
 - Hero section with call-to-action
 - Responsive content sections
